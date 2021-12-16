@@ -1197,74 +1197,23 @@ a {
   padding-top: 5rem;
   background-image: url("../../../assets/images/cover-image-1.png");
 }
-.cid-sRIzJGaHzc {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+.cid-sRJl7r9VF5 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-sRIzJGaHzc .row {
-  flex-direction: row-reverse;
-}
-.cid-sRIzJGaHzc .top {
-  z-index: 5;
-}
-.cid-sRIzJGaHzc .img-col {
-  position: relative;
-}
-.cid-sRIzJGaHzc .img1 {
-  position: absolute;
-  max-width: 60%;
-  top: 0rem;
-  right: 1rem;
-}
-.cid-sRIzJGaHzc .img2 {
-  max-width: 90%;
-  padding-top: 10rem;
-}
-@media (max-width: 767px) {
-  .cid-sRIzJGaHzc .img2 {
-    padding-top: 5rem;
+@media (max-width: 991px) {
+  .cid-sRJl7r9VF5 .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-.cid-sRIzJGaHzc img {
+.cid-sRJl7r9VF5 img {
   width: 100%;
 }
-.cid-sRIzJGaHzc .text-wrapper {
-  z-index: 11;
-}
-.cid-sRIzJGaHzc .wrapper {
-  display: flex;
-}
-.cid-sRIzJGaHzc .row {
-  align-items: center;
-}
-.cid-sRIzJGaHzc .animate__fadeInUp:before {
-  background: #ffffff;
-}
-.cid-sRIzJGaHzc .mbr-iconfont {
-  display: block;
-  font-size: 3rem;
-  color: #6592e6;
-  margin-right: 1.5rem;
-}
-@media (max-width: 767px) {
-  .cid-sRIzJGaHzc .wrapper {
-    flex-direction: column;
+@media (min-width: 992px) {
+  .cid-sRJl7r9VF5 .text-wrapper {
+    padding: 2rem;
   }
-  .cid-sRIzJGaHzc .iconfont-wrapper {
-    margin: auto;
-  }
-  .cid-sRIzJGaHzc .mbr-iconfont {
-    margin-right: 0rem;
-    margin-bottom: 2rem;
-  }
-}
-.cid-sRIzJGaHzc .mbr-section-title {
-  color: #161734;
-}
-.cid-sRIzJGaHzc .mbr-text,
-.cid-sRIzJGaHzc .mbr-section-btn {
-  color: #161734;
 }
 .cid-sPLVjHz4DL {
   background-image: url("../../../assets/images/010-winter-neva.png");
